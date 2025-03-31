@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus objetivos do ano</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="conteudo-principal">
+        <h2 class="titulo-principal">Meus Objetivos do ano<span>_</span></h2>
+        <div class="conteudo">
+            <div class="botoes">
+                <button class="botao ativo">formação engenharia mecânica</button>
+                <button class="botao">Projeto Rato de Academia</button>
+                <button class="botao">Comprar CNH</button>
+                <button class="botao">kawasiki ninja 400cc 2014</button>
+            </div>
+            <div class="abas-textos">
+                <div class="aba-conteudo ativo">
+                    <h3 class="aba-conteudo-titulo-principal">Estudar para o ensinon superior: engenharia mecânica</h3>
+                    <h4 class="aba-conteudo-titulo-secundario">Tempo para completar objetivo= 264 days.</h4>
+                    <div class="contador">
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="dias0"></p>
+                            <p class="contador-digito-texto">dias=264</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="horas0"></p>
+                            <p class="contador-digito-texto">horas=00</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="minutos0"></p>
+                            <p class="contador-digito-texto">Minutos=00</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="segundos0"></p>
+                            <p class="contador-digito-texto">Segundos=00</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="aba-conteudo">
+                    <h3 class="aba-conteudo-titulo-principal">Não usar bomba até o tempo acabar</h3>
+                    <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo= projeto rato de academia</h4>
+                    <div class="contador">
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="dias1"></p>
+                            <p class="contador-digito-texto">dias=100</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="horas1"></p>
+                            <p class="contador-digito-texto">Horas=00</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="minutos1"></p>
+                            <p class="contador-digito-texto">Minutos=00</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="segundos1"></p>
+                            <p class="contador-digito-texto">Segundos=00></p>
+                               <h4> completar o objetivo= kawasaki</h4>
+                    <div class="contador">
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="dias2"></p>
+                            <p class="contador-digito-texto">dias=300</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="horas2"></p>
+                            <p class="contador-digito-texto">Horas=00</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="minutos2"></p>
+                            <p class="contador-digito-texto">Minutos=00</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="segundos2"></p>
+                            <p class="contador-digito-texto">Segundos=00</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="aba-conteudo">
+                    <h3 class="aba-conteudo-titulo-principal">
+                        <img src="https://www.agoramotors.com.br/wp-content/uploads/2024/11/kawasaki-ninja-400-krt-2025-parada-na-pista.jpg"  alt="ford Mustang GT500 1967" /> Comprar essa belezinha
+                    </h3>
+                    <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
+                    <div class="contador">
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="dias3"></p>
+                            <p class="contador-digito-texto">Dias=300</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="horas3"></p>
+                            <p class="contador-digito-texto">Horas=00</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="minutos3"></p>
+                            <p class="contador-digito-texto">Minutos=00</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="segundos3"></p>
+                            <p class="contador-digito-texto">Segundos=00</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="main.js"></script>
+</body>
+</html>
